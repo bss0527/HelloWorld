@@ -13,7 +13,7 @@ namespace HelloWorld
             Console.WriteLine("Hello World");
             Console.WriteLine("Good Bye ~~~");
             Console.WriteLine("The End !!!");
-            Console.WriteLine("World is mine !");
+            Console.WriteLine("World is second !");
         }
     }
 }
